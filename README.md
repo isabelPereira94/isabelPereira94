@@ -1,4 +1,4 @@
-- Eai, sou @isabelPereira94
+- Eai, sou Isabel Pereira
 - I'm a Front-End developer in progress, aiming to become Full Stack 💻
 - Mentoring student Devclub <a>https://rodolfomori.com.br/devclub/<a> 📓
 - Technology and Transport lover 🎮🚛
